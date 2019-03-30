@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+main {
+  max-width: 950px;
+  margin: 0 auto;
+  position: relative;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  margin-left: 20px;
+  font-size: 32px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+a {
+  color: #4A90E2;
+  text-decoration: none;
+}
+
+.project1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 950px;
+  margin-left: 20px;
+}
+
+img{
+  max-width: 950px;
+}
+
+.project2{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.project3{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer{
+  display: flex;
+  align-items: flex-end;
+}
